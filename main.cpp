@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-
+using namespace std;
 vector<int> shuffle(vector<int>& nums, int n)
 {
     vector<int>arr;
